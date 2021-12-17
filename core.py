@@ -1,2 +1,2 @@
 
-this is code for python
+why this is a code for python
