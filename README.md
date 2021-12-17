@@ -1,0 +1,2 @@
+# core-demo
+core info
